@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "task-manager-f4ef5": {
+      "hosting": {
+        "angular-taskmanager": [
+          "task-manager-f4ef5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "task-manager-f4ef5"
+  }
+}
